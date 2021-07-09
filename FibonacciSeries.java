@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Scanner;
 
-class FibonacciSeries  //class name
+class FibonacciSeries 
 {
 	public static void main(String args[]) throws Exception
 	{
